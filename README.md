@@ -195,6 +195,21 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📊 Project Statistics
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Database-Migration-Framework?style=social)](https://github.com/muhittincamdali/iOS-Database-Migration-Framework/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Database-Migration-Framework?style=social)](https://github.com/muhittincamdali/iOS-Database-Migration-Framework/network)
+[![GitHub issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Database-Migration-Framework)](https://github.com/muhittincamdali/iOS-Database-Migration-Framework/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Database-Migration-Framework)](https://github.com/muhittincamdali/iOS-Database-Migration-Framework/pulls)
+
+</div>
+
+## 🌟 Stargazers
+
+[![Stargazers repo roster for @muhittincamdali/iOS-Database-Migration-Framework](https://reporoster.com/stars/muhittincamdali/iOS-Database-Migration-Framework)](https://github.com/muhittincamdali/iOS-Database-Migration-Framework/stargazers)
+
 ## 🏆 Acknowledgments
 
 - Apple for Core Data and SwiftData frameworks
