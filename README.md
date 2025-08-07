@@ -467,7 +467,6 @@ backgroundMigration.startBackgroundMigration(
 
 #### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/muhittincamdali/iOS-Database-Migration-Framework.git
 cd iOS-Database-Migration-Framework
 ```
 
@@ -519,7 +518,6 @@ Add the framework to your project:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/muhittincamdali/iOS-Database-Migration-Framework.git", from: "1.0.0")
 ]
 ```
 
@@ -585,7 +583,6 @@ let complexMigration = ComplexMigration(
                 CREATE TABLE posts (
                     id INTEGER PRIMARY KEY,
                     user_id INTEGER NOT NULL,
-                    title TEXT NOT NULL,
                     content TEXT,
                     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                     FOREIGN KEY (user_id) REFERENCES users(id)
@@ -635,7 +632,6 @@ migrationConfig.memoryLimit = 100 * 1024 * 1024 // 100MB
 
 // Set security settings
 migrationConfig.enableEncryption = true
-migrationConfig.enableAuditLogging = true
 migrationConfig.dataProtectionLevel = .complete
 
 // Apply configuration
@@ -734,11 +730,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-![GitHub Stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Database-Migration-Framework?style=for-the-badge&logo=star&logoColor=gold&color=gold&label=Stars)
-![GitHub Forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Database-Migration-Framework?style=for-the-badge&logo=git&logoColor=white&color=blue&label=Forks)
-![GitHub Issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Database-Migration-Framework?style=for-the-badge&logo=github&logoColor=white&color=red&label=Issues)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Database-Migration-Framework?style=for-the-badge&logo=github&logoColor=white&color=green&label=PRs)
-![GitHub License](https://img.shields.io/github/license/muhittincamdali/iOS-Database-Migration-Framework?style=for-the-badge&logo=github&logoColor=white&color=purple&label=License)
 
 </div>
 
@@ -755,7 +746,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 Stargazers Community
 
-[![Stargazers repo roster for @muhittincamdali/iOS-Database-Migration-Framework](https://reporoster.com/stars/muhittincamdali/iOS-Database-Migration-Framework)](https://github.com/muhittincamdali/iOS-Database-Migration-Framework/stargazers)
 
 **⭐ Star this repository if it helped you!**
 
