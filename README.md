@@ -755,7 +755,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 Stargazers Community
 
-[![Stargazers repo roster for @muhittincamdali/iOS-Database-Migration-Framework](https://reporoster.com/stars/muhittincamdali/iOS-Database-Migration-Framework)](https://github.com/muhittincamdali/iOS-Database-Migration-Framework/stargazers)
+[![Stargazers repo roster for @muhittincamdali/iOS-Database-Migration-Framework](https://starchart.cc/muhittincamdali/iOS-Database-Migration-Framework.svg)](https://github.com/muhittincamdali/iOS-Database-Migration-Framework/stargazers)
 
 **⭐ Star this repository if it helped you!**
 
