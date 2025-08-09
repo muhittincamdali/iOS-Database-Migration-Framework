@@ -1,5 +1,22 @@
 # Performance API
 
+<!-- TOC START -->
+## Table of Contents
+- [Performance API](#performance-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [PerformanceManager](#performancemanager)
+  - [PerformanceMetrics](#performancemetrics)
+- [API Reference](#api-reference)
+  - [Performance Monitoring](#performance-monitoring)
+    - [Basic Performance Tracking](#basic-performance-tracking)
+  - [Batch Processing](#batch-processing)
+- [Best Practices](#best-practices)
+- [Examples](#examples)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Performance API provides comprehensive performance optimization and monitoring capabilities for database migration operations, enabling efficient large-scale migrations and real-time performance tracking.

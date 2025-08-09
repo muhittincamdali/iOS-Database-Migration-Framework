@@ -1,5 +1,24 @@
 # Migration Manager API
 
+<!-- TOC START -->
+## Table of Contents
+- [Migration Manager API](#migration-manager-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [DatabaseMigrationManager](#databasemigrationmanager)
+  - [MigrationConfiguration](#migrationconfiguration)
+- [API Reference](#api-reference)
+  - [Migration Operations](#migration-operations)
+    - [Basic Migration](#basic-migration)
+    - [Advanced Migration](#advanced-migration)
+  - [Progress Tracking](#progress-tracking)
+  - [Error Handling](#error-handling)
+- [Best Practices](#best-practices)
+- [Examples](#examples)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Migration Manager API provides the core functionality for database migration operations in iOS applications. This comprehensive API enables seamless database schema evolution, data migration, and version management across multiple database types.

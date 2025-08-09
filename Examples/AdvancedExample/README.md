@@ -1,5 +1,21 @@
 # Advanced Example
 
+<!-- TOC START -->
+## Table of Contents
+- [Advanced Example](#advanced-example)
+- [Overview](#overview)
+- [Advanced Configuration](#advanced-configuration)
+  - [Custom Analytics Configuration](#custom-analytics-configuration)
+  - [Advanced Migration Configuration](#advanced-migration-configuration)
+- [Advanced Migration with Custom Policies](#advanced-migration-with-custom-policies)
+- [Multi-Step Migration](#multi-step-migration)
+- [Performance Monitoring](#performance-monitoring)
+- [Error Recovery](#error-recovery)
+- [Testing Advanced Features](#testing-advanced-features)
+- [Best Practices for Advanced Usage](#best-practices-for-advanced-usage)
+<!-- TOC END -->
+
+
 ## Overview
 
 This example demonstrates advanced features of the iOS Database Migration Framework including custom policies, analytics, and complex migration scenarios.

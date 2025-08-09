@@ -1,5 +1,21 @@
 # Schema Migration API
 
+<!-- TOC START -->
+## Table of Contents
+- [Schema Migration API](#schema-migration-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [SchemaMigrationManager](#schemamigrationmanager)
+  - [SchemaChanges](#schemachanges)
+- [API Reference](#api-reference)
+  - [Schema Operations](#schema-operations)
+    - [Basic Schema Migration](#basic-schema-migration)
+- [Best Practices](#best-practices)
+- [Examples](#examples)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Schema Migration API provides comprehensive database schema evolution capabilities, enabling seamless schema changes, table modifications, and structural updates across multiple database types.

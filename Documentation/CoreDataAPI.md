@@ -1,5 +1,24 @@
 # Core Data API
 
+<!-- TOC START -->
+## Table of Contents
+- [Core Data API](#core-data-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [CoreDataMigrationManager](#coredatamigrationmanager)
+  - [CoreDataMigrationConfiguration](#coredatamigrationconfiguration)
+- [API Reference](#api-reference)
+  - [Migration Operations](#migration-operations)
+    - [Lightweight Migration](#lightweight-migration)
+    - [Heavyweight Migration](#heavyweight-migration)
+  - [Model Version Management](#model-version-management)
+  - [Custom Migration](#custom-migration)
+- [Best Practices](#best-practices)
+- [Examples](#examples)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Core Data API provides comprehensive migration capabilities for Core Data managed object models. This API enables seamless schema evolution, lightweight and heavyweight migrations, and data transformation for Core Data applications.

@@ -1,5 +1,17 @@
 # Schema Evolution Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Schema Evolution Guide](#schema-evolution-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Schema Evolution Steps](#schema-evolution-steps)
+- [Best Practices](#best-practices)
+- [Troubleshooting](#troubleshooting)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides step-by-step instructions for evolving your database schema using the iOS Database Migration Framework.

@@ -1,5 +1,24 @@
 # SQLite API
 
+<!-- TOC START -->
+## Table of Contents
+- [SQLite API](#sqlite-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [SQLiteMigrationManager](#sqlitemigrationmanager)
+  - [SQLiteMigration](#sqlitemigration)
+- [API Reference](#api-reference)
+  - [Migration Operations](#migration-operations)
+    - [Basic Migration](#basic-migration)
+    - [Multiple Migrations](#multiple-migrations)
+  - [Schema Management](#schema-management)
+  - [Data Operations](#data-operations)
+- [Best Practices](#best-practices)
+- [Examples](#examples)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 The SQLite API provides direct SQLite database migration capabilities, enabling schema evolution, data transformation, and version management for SQLite databases in iOS applications.

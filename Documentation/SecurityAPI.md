@@ -1,5 +1,22 @@
 # Security API
 
+<!-- TOC START -->
+## Table of Contents
+- [Security API](#security-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [SecurityManager](#securitymanager)
+  - [SecurityStatus](#securitystatus)
+- [API Reference](#api-reference)
+  - [Encryption](#encryption)
+  - [Audit Logging](#audit-logging)
+  - [Data Protection](#data-protection)
+- [Best Practices](#best-practices)
+- [Examples](#examples)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Security API provides advanced security features for database migration operations, including encryption, access control, audit logging, and compliance support for iOS applications.

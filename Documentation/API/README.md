@@ -1,5 +1,31 @@
 # API Documentation
 
+<!-- TOC START -->
+## Table of Contents
+- [API Documentation](#api-documentation)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [MigrationManager](#migrationmanager)
+  - [SchemaValidator](#schemavalidator)
+  - [MigrationAnalytics](#migrationanalytics)
+- [Core Data Integration](#core-data-integration)
+  - [CoreDataMigrationManager](#coredatamigrationmanager)
+- [SwiftData Integration](#swiftdata-integration)
+  - [SwiftDataMigrationManager](#swiftdatamigrationmanager)
+- [Error Handling](#error-handling)
+  - [MigrationError](#migrationerror)
+- [Configuration](#configuration)
+  - [MigrationConfiguration](#migrationconfiguration)
+- [Progress Tracking](#progress-tracking)
+  - [ProgressHandler](#progresshandler)
+- [Analytics](#analytics)
+  - [MigrationAnalyticsData](#migrationanalyticsdata)
+- [Best Practices](#best-practices)
+- [Performance Considerations](#performance-considerations)
+- [Security](#security)
+<!-- TOC END -->
+
+
 ## Overview
 
 The iOS Database Migration Framework provides comprehensive database migration capabilities for iOS applications. This documentation covers all public APIs and their usage.

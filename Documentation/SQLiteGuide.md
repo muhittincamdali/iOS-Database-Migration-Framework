@@ -1,5 +1,17 @@
 # SQLite Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [SQLite Guide](#sqlite-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Migration Steps](#migration-steps)
+- [Best Practices](#best-practices)
+- [Troubleshooting](#troubleshooting)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides step-by-step instructions for performing SQLite database migrations using the iOS Database Migration Framework.

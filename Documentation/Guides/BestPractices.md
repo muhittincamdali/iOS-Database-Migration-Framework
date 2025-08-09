@@ -3,6 +3,16 @@
 
 # BestPractices
 
+<!-- TOC START -->
+## Table of Contents
+- [BestPractices](#bestpractices)
+- [Overview](#overview)
+- [API](#api)
+- [Usage](#usage)
+- [Notes](#notes)
+<!-- TOC END -->
+
+
 ## Overview
 Explain the purpose and context.
 

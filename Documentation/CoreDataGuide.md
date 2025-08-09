@@ -1,5 +1,17 @@
 # Core Data Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Core Data Guide](#core-data-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Migration Steps](#migration-steps)
+- [Best Practices](#best-practices)
+- [Troubleshooting](#troubleshooting)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides step-by-step instructions for performing Core Data migrations using the iOS Database Migration Framework.

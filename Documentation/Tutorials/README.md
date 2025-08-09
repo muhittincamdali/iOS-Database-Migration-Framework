@@ -1,5 +1,36 @@
 # Tutorials
 
+<!-- TOC START -->
+## Table of Contents
+- [Tutorials](#tutorials)
+- [Tutorial 1: Basic Migration Setup](#tutorial-1-basic-migration-setup)
+  - [Step 1: Install the Framework](#step-1-install-the-framework)
+  - [Step 2: Import and Configure](#step-2-import-and-configure)
+  - [Step 3: Perform Migration](#step-3-perform-migration)
+- [Tutorial 2: Core Data Migration](#tutorial-2-core-data-migration)
+  - [Step 1: Setup Core Data Migration](#step-1-setup-core-data-migration)
+  - [Step 2: Create Custom Migration Policy](#step-2-create-custom-migration-policy)
+  - [Step 3: Execute Migration](#step-3-execute-migration)
+- [Tutorial 3: SwiftData Migration](#tutorial-3-swiftdata-migration)
+  - [Step 1: Define Schema Evolution](#step-1-define-schema-evolution)
+  - [Step 2: Configure SwiftData Migration](#step-2-configure-swiftdata-migration)
+  - [Step 3: Execute Migration](#step-3-execute-migration)
+- [Tutorial 4: Advanced Analytics](#tutorial-4-advanced-analytics)
+  - [Step 1: Configure Analytics](#step-1-configure-analytics)
+  - [Step 2: Monitor Migration Progress](#step-2-monitor-migration-progress)
+  - [Step 3: Analyze Results](#step-3-analyze-results)
+- [Tutorial 5: Error Handling and Rollback](#tutorial-5-error-handling-and-rollback)
+  - [Step 1: Implement Error Handling](#step-1-implement-error-handling)
+  - [Step 2: Implement Rollback](#step-2-implement-rollback)
+  - [Step 3: Validate After Migration](#step-3-validate-after-migration)
+- [Tutorial 6: Production Deployment](#tutorial-6-production-deployment)
+  - [Step 1: Pre-Production Checklist](#step-1-pre-production-checklist)
+  - [Step 2: Production Migration](#step-2-production-migration)
+  - [Step 3: Post-Migration Validation](#step-3-post-migration-validation)
+- [Best Practices Summary](#best-practices-summary)
+<!-- TOC END -->
+
+
 ## Tutorial 1: Basic Migration Setup
 
 ### Step 1: Install the Framework

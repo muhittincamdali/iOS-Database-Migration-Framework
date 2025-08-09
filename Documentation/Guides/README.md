@@ -1,5 +1,33 @@
 # Migration Guides
 
+<!-- TOC START -->
+## Table of Contents
+- [Migration Guides](#migration-guides)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Basic Setup](#basic-setup)
+- [Core Data Migration](#core-data-migration)
+  - [Setup Core Data Migration](#setup-core-data-migration)
+  - [Custom Migration Policies](#custom-migration-policies)
+- [SwiftData Migration](#swiftdata-migration)
+  - [Setup SwiftData Migration](#setup-swiftdata-migration)
+  - [Schema Evolution](#schema-evolution)
+- [Advanced Features](#advanced-features)
+  - [Progress Monitoring](#progress-monitoring)
+  - [Analytics and Monitoring](#analytics-and-monitoring)
+  - [Rollback Operations](#rollback-operations)
+- [Best Practices](#best-practices)
+  - [Pre-Migration Checklist](#pre-migration-checklist)
+  - [Production Migration](#production-migration)
+  - [Performance Optimization](#performance-optimization)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+  - [Debugging](#debugging)
+- [Security Considerations](#security-considerations)
+- [Compliance](#compliance)
+<!-- TOC END -->
+
+
 ## Getting Started
 
 ### Installation

@@ -1,5 +1,21 @@
 # Data Migration API
 
+<!-- TOC START -->
+## Table of Contents
+- [Data Migration API](#data-migration-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [DataMigrationManager](#datamigrationmanager)
+  - [DataTransformation](#datatransformation)
+- [API Reference](#api-reference)
+  - [Data Operations](#data-operations)
+    - [Basic Data Migration](#basic-data-migration)
+- [Best Practices](#best-practices)
+- [Examples](#examples)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Data Migration API provides comprehensive data transformation and migration capabilities, enabling seamless data restructuring, format conversion, and bulk data operations across multiple database types.

@@ -1,5 +1,16 @@
 # Performance Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Performance Guide](#performance-guide)
+- [Overview](#overview)
+- [Performance Optimization Steps](#performance-optimization-steps)
+- [Best Practices](#best-practices)
+- [Troubleshooting](#troubleshooting)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides best practices and step-by-step instructions for optimizing performance during database migrations using the iOS Database Migration Framework.

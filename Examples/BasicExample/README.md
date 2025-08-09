@@ -1,5 +1,25 @@
 # Basic Example
 
+<!-- TOC START -->
+## Table of Contents
+- [Basic Example](#basic-example)
+- [Overview](#overview)
+- [Setup](#setup)
+  - [1. Import the Framework](#1-import-the-framework)
+  - [2. Create Configuration](#2-create-configuration)
+  - [3. Initialize Manager](#3-initialize-manager)
+- [Basic Migration](#basic-migration)
+- [Migration with Progress Tracking](#migration-with-progress-tracking)
+- [Schema Validation](#schema-validation)
+- [Rollback Example](#rollback-example)
+- [Analytics Example](#analytics-example)
+- [Error Handling](#error-handling)
+- [Complete Example](#complete-example)
+- [Testing](#testing)
+- [Best Practices](#best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 This example demonstrates basic usage of the iOS Database Migration Framework.

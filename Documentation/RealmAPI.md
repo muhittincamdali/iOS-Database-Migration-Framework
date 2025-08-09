@@ -1,5 +1,21 @@
 # Realm API
 
+<!-- TOC START -->
+## Table of Contents
+- [Realm API](#realm-api)
+- [Overview](#overview)
+- [Core Components](#core-components)
+  - [RealmMigrationManager](#realmmigrationmanager)
+  - [Realm Migration Configuration](#realm-migration-configuration)
+- [API Reference](#api-reference)
+  - [Migration Operations](#migration-operations)
+    - [Basic Migration](#basic-migration)
+- [Best Practices](#best-practices)
+- [Examples](#examples)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Realm API provides comprehensive migration capabilities for Realm databases, enabling seamless schema evolution and data transformation for Realm-based iOS applications.

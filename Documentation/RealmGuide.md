@@ -1,5 +1,17 @@
 # Realm Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Realm Guide](#realm-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Migration Steps](#migration-steps)
+- [Best Practices](#best-practices)
+- [Troubleshooting](#troubleshooting)
+- [Related Documentation](#related-documentation)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides step-by-step instructions for performing Realm database migrations using the iOS Database Migration Framework.

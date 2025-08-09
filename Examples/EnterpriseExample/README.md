@@ -1,5 +1,22 @@
 # Enterprise Example
 
+<!-- TOC START -->
+## Table of Contents
+- [Enterprise Example](#enterprise-example)
+- [Overview](#overview)
+- [Enterprise Configuration](#enterprise-configuration)
+  - [Multi-Environment Support](#multi-environment-support)
+- [Security Implementation](#security-implementation)
+- [Compliance Implementation](#compliance-implementation)
+- [Performance Monitoring](#performance-monitoring)
+- [Enterprise Validation](#enterprise-validation)
+- [Compliance Reporting](#compliance-reporting)
+- [Notification Management](#notification-management)
+- [Testing Enterprise Features](#testing-enterprise-features)
+- [Enterprise Best Practices](#enterprise-best-practices)
+<!-- TOC END -->
+
+
 ## Overview
 
 This example demonstrates enterprise-grade features of the iOS Database Migration Framework including multi-environment support, security, compliance, and scalability.
