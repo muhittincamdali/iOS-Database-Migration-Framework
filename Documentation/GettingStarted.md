@@ -1,72 +1,35 @@
-# Getting Started Guide
+# 🚀 Getting Started
 
-<!-- TOC START -->
-## Table of Contents
-- [Getting Started Guide](#getting-started-guide)
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-  - [Swift Package Manager](#swift-package-manager)
-  - [CocoaPods](#cocoapods)
-- [Basic Usage](#basic-usage)
-- [Next Steps](#next-steps)
-<!-- TOC END -->
-
-
-## Overview
-
-This guide will help you quickly set up and use the iOS Database Migration Framework in your iOS projects.
+Welcome to our world-class iOS development framework! This guide will help you get started quickly and efficiently.
 
 ## Prerequisites
 
-- iOS 15.0+ with iOS 15.0+ SDK
+- iOS 15.0+
+- Xcode 14.0+
 - Swift 5.9+
-- Xcode 15.0+
-- Swift Package Manager or CocoaPods
+- macOS 12.0+
 
 ## Installation
 
 ### Swift Package Manager
 
-Add the following to your `Package.swift` dependencies:
+Add the following dependency to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/muhittincamdali/iOS-Database-Migration-Framework.git", from: "1.0.0")
+    .package(url: "https://github.com/muhittincamdali/REPO_NAME.git", from: "1.0.0")
 ]
 ```
 
-### CocoaPods
+## Basic Setup
 
-Add the following to your `Podfile`:
-
-```ruby
-pod 'iOS-Database-Migration-Framework', :git => 'https://github.com/muhittincamdali/iOS-Database-Migration-Framework.git'
-```
-
-## Basic Usage
-
-```swift
-import DatabaseMigrationFramework
-
-let migrationManager = DatabaseMigrationManager()
-let config = MigrationConfiguration()
-config.enableAutomaticMigration = true
-config.enableBackupBeforeMigration = true
-
-migrationManager.start(with: config)
-migrationManager.migrateDatabase { result in
-    switch result {
-    case .success:
-        print("Migration completed successfully")
-    case .failure(let error):
-        print("Migration failed: \(error)")
-    }
-}
-```
+1. Import the framework
+2. Initialize the main component
+3. Configure your settings
+4. Start using the features
 
 ## Next Steps
 
-- Explore the [API Documentation](MigrationManagerAPI.md)
-- See [Examples](../Examples/) for practical implementations
-- Review [Best Practices](../Documentation/PerformanceGuide.md)
+- Check out our [Examples](Examples/) folder
+- Read the [API Documentation](API.md)
+- Explore [Advanced Usage](AdvancedUsage.md)
