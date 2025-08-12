@@ -1,6 +1,7 @@
 # Examples Index
 
 - ``Examples/AdvancedExample.swift
+- ``Examples/AdvancedExamples/AdvancedDemo.swift
 - ``Examples/AdvancedExamples/AdvancedMigrationExample.swift
 - ``Examples/BasicExample.swift
 - ``Examples/BasicExamples/BasicMigrationExample.swift
